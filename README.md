@@ -1,5 +1,7 @@
-# Advance_SQL_Assignment
-Github repository for Advance SQL Assignment
+# AdvancedSQL_Assignment
+This is my Github repository for Advance SQL Assignment
+
+Below I have stated the queries and shown the output screenshot of my solution:
 
 
 ### Q1. Write a query that gives an overview of how many films have replacements costs in the following cost ranges
