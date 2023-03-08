@@ -16,7 +16,8 @@ SELECT
 SUM(CASE WHEN replacement_cost BETWEEN 9.99 AND 19.99 THEN 1 ELSE 0 END) AS low,  
 SUM(CASE WHEN replacement_cost BETWEEN 20.00 AND 24.99 THEN 1 ELSE 0 END) AS medium,  
 SUM(CASE WHEN replacement_cost BETWEEN 25.00 AND 29.99 THEN 1 ELSE 0 END) AS high  
-FROM film;  '''
+FROM film;  
+'''
 
 ### Output:
 <img width="1225" alt="Screenshot 2023-03-07 at 4 48 56 PM" src="https://user-images.githubusercontent.com/122514456/223416292-9445db44-8d6c-4a98-b83b-5f97688152fd.png">
