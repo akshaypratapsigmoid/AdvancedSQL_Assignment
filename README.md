@@ -225,7 +225,7 @@ PARTITION partition_3 VALUES ('G', 'NC-17'),
 
 ### Q11. Write a query to count the total number of addresses from the “address” table where the ‘postal_code’ is of the below formats. Use regular expression.
 
-9*1*, 9*2, 9*3, 9*4, 9*5*  
+9*1**, 9*2**, 9*3**, 9*4**, 9*5**
 
 eg. postal codes - 91522, 80100, 92712, 60423, 91111, 9211  
 result - 2  
